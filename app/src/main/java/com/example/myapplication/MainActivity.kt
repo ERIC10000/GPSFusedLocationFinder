@@ -220,3 +220,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+
+
+// get latitude and longitude GPS coordinates after a Button Click and Add to EditText using Kotlin and XML in android fused location
